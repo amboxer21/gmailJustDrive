@@ -1,7 +1,6 @@
 #!/usr/bin/ruby
 
 require 'gmail'
-require 'date'
 
 @entries = Array.new
 @final   = Array.new
